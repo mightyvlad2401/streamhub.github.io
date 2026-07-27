@@ -4,7 +4,7 @@
 **Package name:** `com.emergent.allstreamsone.b3kpre`  
 **Version at time of submission:** 1.0.0  
 **Contact email:** vladut.toader@gmail.com  
-**Privacy Policy URL:** 
+**Privacy Policy URL:** https://mightyvlad2401.github.io/streamhub.github.io/Google_Play_Data_Safety_Form.md
 
 ## How to use this document
 
