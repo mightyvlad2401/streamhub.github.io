@@ -4,9 +4,7 @@
 **Package name:** `com.emergent.allstreamsone.b3kpre`  
 **Version at time of submission:** 1.0.0  
 **Contact email:** vladut.toader@gmail.com  
-**Privacy Policy URL:** *(host the in-app policy at a public URL and paste it here — Google requires a public URL, not a deep-link into the app)*
-
----
+**Privacy Policy URL:** 
 
 ## How to use this document
 
